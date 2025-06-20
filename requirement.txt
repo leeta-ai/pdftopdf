@@ -4,7 +4,7 @@ lmdb==1.4.1
 matplotlib==3.8.4
 numpy==1.26.4
 onnx==1.16.1
-onnxruntime-gpu==1.17.1
+onnxruntime==3.0.0
 opencv-python==4.9.0.80
 paddlepaddle-gpu==2.6.1
 pandas==2.2.2
