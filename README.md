@@ -9,7 +9,7 @@ conda create -n py39 python=3.9
 
 pip install -r requirement.txt
 
-GPU版本可安装指定版torch
+torch需安装指定gpu版本
 
 下载地址：
 https://download.pytorch.org/whl/torch
