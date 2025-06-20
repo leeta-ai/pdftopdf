@@ -6,7 +6,7 @@ numpy==1.26.4
 onnx==1.16.1
 onnxruntime==3.0.0
 opencv-python==4.9.0.80
-paddlepaddle-gpu==2.6.1
+paddlepaddle==3.0.0
 pandas==2.2.2
 Pillow==9.5.0
 protobuf==5.26.1
