@@ -9,6 +9,14 @@ conda create -n py39 python=3.9
 
 pip install -r requirement.txt
 
+GPU版本可安装指定版torch
+
+torch @ file:///home/to/torch-1.10.2%2Bcu111-cp39-cp39-linux_x86_64.whl#sha256=78ae2260ac1902c5a224fe1b7994072bbfa7ef8a1734d8697ca74249fa6391c5
+
+torchaudio==0.12.1+cu116
+
+torchvision @ file:///home/to/torchvision-0.11.3%2Bcu111-cp39-cp39-linux_x86_64.whl#sha256=0644e5b680e4f506d92a3e8ad67b34e18d18c1e10a4a8ffc662cfa909fd70ecf
+
 
 weights
 
